@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: Network-Security
+Version: 1.0.0
+Home-page: https://github.com/Meet-Bhavsar/mlops-project/
+Author: Meet
+Author-email: meetacademics123@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: certifi
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
