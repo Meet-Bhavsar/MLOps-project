@@ -1,38 +1,85 @@
-2025-05-23 15:42:29,564 - INFO - initiate ingestion configuration
-2025-05-23 15:43:43,008 - INFO - initiate ingestion configuration
-2025-05-23 15:44:15,055 - INFO - initiate ingestion configuration
-2025-05-23 16:00:24,012 - INFO - initiate ingestion configuration
-2025-05-23 16:04:08,543 - INFO - initiate ingestion configuration
-2025-05-23 16:06:09,185 - INFO - initiate ingestion configuration
-2025-05-23 16:14:08,522 - INFO - initiate ingestion configuration
-2025-05-23 16:16:36,480 - INFO - Initiating data ingestion
-2025-05-23 16:16:38,887 - INFO - Training and testing files.
-2025-05-23 16:19:31,854 - INFO - Initiating data ingestion
-2025-05-23 16:19:37,177 - INFO - Training and testing files.
-2025-05-23 16:19:37,217 - INFO - Required number of columns: 31
-2025-05-23 16:19:37,218 - INFO - Dataframe columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:19:37,218 - INFO - Required number of columns: 31
-2025-05-23 16:19:37,218 - INFO - Dataframe columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:20:19,519 - INFO - Initiating data ingestion
-2025-05-23 16:20:22,257 - INFO - Training and testing files.
-2025-05-23 16:24:54,645 - INFO - Initiating data ingestion
-2025-05-23 16:24:57,228 - INFO - Training and testing files.
-2025-05-23 16:25:24,194 - INFO - Initiating data ingestion
-2025-05-23 16:25:26,136 - INFO - Training and testing files.
-2025-05-23 16:25:26,182 - INFO - Required number of columns: 31
-2025-05-23 16:25:26,182 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:25:26,182 - INFO - Required number of columns: 31
-2025-05-23 16:25:26,182 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:26:34,668 - INFO - Initiating data ingestion
-2025-05-23 16:26:36,842 - INFO - Training and testing files.
-2025-05-23 16:26:36,882 - INFO - Required number of columns: 31
-2025-05-23 16:26:36,882 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:26:36,882 - INFO - Required number of columns: 31
-2025-05-23 16:26:36,882 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:27:31,423 - INFO - Initiating data ingestion
-2025-05-23 16:27:33,423 - INFO - Training and testing files.
-2025-05-23 16:27:33,463 - INFO - Required number of columns: 31
-2025-05-23 16:27:33,463 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:27:33,463 - INFO - Required number of columns: 31
-2025-05-23 16:27:33,463 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
-2025-05-23 16:27:33,674 - INFO - Data validation completed
+2025-05-23 17:58:51,357 - INFO - Initiating data ingestion
+2025-05-23 17:58:55,255 - INFO - Training and testing files.
+2025-05-23 17:58:55,375 - INFO - Required number of columns: 31
+2025-05-23 17:58:55,376 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 17:58:55,378 - INFO - Required number of columns: 31
+2025-05-23 17:58:55,378 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 17:58:55,906 - INFO - Data validation completed
+2025-05-23 17:59:51,232 - INFO - Initiating data ingestion
+2025-05-23 17:59:54,627 - INFO - Training and testing files.
+2025-05-23 17:59:54,691 - INFO - Required number of columns: 31
+2025-05-23 17:59:54,691 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 17:59:54,691 - INFO - Required number of columns: 31
+2025-05-23 17:59:54,691 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 17:59:55,097 - INFO - Data validation completed
+2025-05-23 18:02:01,412 - INFO - Initiating data ingestion
+2025-05-23 18:02:06,950 - INFO - Training and testing files.
+2025-05-23 18:02:07,016 - INFO - Required number of columns: 31
+2025-05-23 18:02:07,016 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:02:07,016 - INFO - Required number of columns: 31
+2025-05-23 18:02:07,016 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:02:07,347 - INFO - Data validation completed
+2025-05-23 18:02:38,309 - INFO - Initiating data ingestion
+2025-05-23 18:02:41,548 - INFO - Training and testing files.
+2025-05-23 18:02:41,614 - INFO - Required number of columns: 31
+2025-05-23 18:02:41,614 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:02:41,614 - INFO - Required number of columns: 31
+2025-05-23 18:02:41,614 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:02:41,961 - INFO - Data validation completed
+2025-05-23 18:02:42,019 - INFO - knn imputer initialized
+2025-05-23 18:04:01,230 - INFO - Initiating data ingestion
+2025-05-23 18:04:04,123 - INFO - Training and testing files.
+2025-05-23 18:04:04,190 - INFO - Required number of columns: 31
+2025-05-23 18:04:04,190 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:04:04,190 - INFO - Required number of columns: 31
+2025-05-23 18:04:04,190 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:04:04,547 - INFO - Data validation completed
+2025-05-23 18:05:46,422 - INFO - Initiating data ingestion
+2025-05-23 18:05:49,710 - INFO - Training and testing files.
+2025-05-23 18:05:49,768 - INFO - Required number of columns: 31
+2025-05-23 18:05:49,768 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:05:49,768 - INFO - Required number of columns: 31
+2025-05-23 18:05:49,768 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:05:50,105 - INFO - Data validation completed
+2025-05-23 18:05:50,172 - INFO - knn imputer initialized
+2025-05-23 18:07:05,148 - INFO - Initiating data ingestion
+2025-05-23 18:07:07,592 - INFO - Training and testing files.
+2025-05-23 18:07:07,659 - INFO - Required number of columns: 31
+2025-05-23 18:07:07,659 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:07:07,659 - INFO - Required number of columns: 31
+2025-05-23 18:07:07,659 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:07:07,965 - INFO - Data validation completed
+2025-05-23 18:07:08,022 - INFO - knn imputer initialized
+2025-05-23 18:09:36,277 - INFO - Initiating data ingestion
+2025-05-23 18:09:39,106 - INFO - Training and testing files.
+2025-05-23 18:09:39,172 - INFO - Required number of columns: 31
+2025-05-23 18:09:39,172 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:09:39,172 - INFO - Required number of columns: 31
+2025-05-23 18:09:39,172 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:09:39,520 - INFO - Data validation completed
+2025-05-23 18:09:39,580 - INFO - knn imputer initialized
+2025-05-23 18:09:39,600 - INFO - saving object
+2025-05-23 18:09:39,604 - INFO - object saved
+2025-05-23 18:09:39,606 - INFO - Data transformation completed
+2025-05-23 18:09:59,766 - INFO - Initiating data ingestion
+2025-05-23 18:10:02,318 - INFO - Training and testing files.
+2025-05-23 18:10:02,389 - INFO - Required number of columns: 31
+2025-05-23 18:10:02,389 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:10:02,389 - INFO - Required number of columns: 31
+2025-05-23 18:10:02,389 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:10:02,719 - INFO - Data validation completed
+2025-05-23 18:10:02,779 - INFO - knn imputer initialized
+2025-05-23 18:10:02,796 - INFO - saving object
+2025-05-23 18:10:02,799 - INFO - object saved
+2025-05-23 18:10:02,800 - INFO - Data transformation completed
+2025-05-23 18:13:55,496 - INFO - Initiating data ingestion
+2025-05-23 18:13:58,479 - INFO - Training and testing files.
+2025-05-23 18:13:58,549 - INFO - Required number of columns: 31
+2025-05-23 18:13:58,549 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:13:58,549 - INFO - Required number of columns: 31
+2025-05-23 18:13:58,549 - INFO - Data frame has columns: ['index', 'having_IP_Address', 'URL_Length', 'Shortining_Service', 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix', 'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length', 'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor', 'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL', 'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe', 'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank', 'Google_Index', 'Links_pointing_to_page', 'Statistical_report', 'Result']
+2025-05-23 18:13:58,937 - INFO - Data validation completed
+2025-05-23 18:13:59,010 - INFO - knn imputer initialized
+2025-05-23 18:13:59,035 - INFO - saving object
+2025-05-23 18:13:59,038 - INFO - object saved
+2025-05-23 18:13:59,040 - INFO - Data transformation completed
