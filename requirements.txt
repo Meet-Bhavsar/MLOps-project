@@ -6,4 +6,6 @@ pymongo
 scikit-learn
 pyaml
 mlflow
+fastapi
+uvicorn
 # -e .

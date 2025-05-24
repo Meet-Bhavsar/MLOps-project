@@ -25,7 +25,7 @@ if __name__ == '__main__':
         data_transformation_config = DataTransformationConfig(trainingpipelineconfig)
         data_transformation = DataTransformation(data_validation_artifact, data_transformation_config)
         data_transformation_artifact = data_transformation.initiate_data_transformation()
-        print(data_transformation_artifact)
+        # print(data_transformation_artifact)
         logging.info("Data transformation completed")
         
         model_trainer_config=ModelTrainerConfig(trainingpipelineconfig)
