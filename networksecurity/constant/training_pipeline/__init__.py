@@ -14,6 +14,11 @@ TEST_FILE_NAME: str = 'test.csv'
 PREPROCESSING_OBJECT_FILE_NAME: str = "preprocessor.pkl"
 SCHEMA_FILE_PATH = os.path.join("data_schema", "schema.yaml")
 
+SAVED_MODEL_DIR=os.path.join("saved_models")
+MODEL_FILE_NAME = "model.pkl"
+
+
+
 # data ingestion related constants 
 DATA_INGESTION_COLLECTION_NAME:str = 'NetworkData'
 DATA_INGESTION_DATABASE_NAME:str = 'meet'
@@ -39,3 +44,14 @@ DATA_TRAMSFORMATION_IMPUTER_PARAMS:dict ={
     "n_neighbors": 3,
     "weights": "uniform",
 }
+
+# model trainer related constants
+MODEL_TRAINER_DIR_NAME="model_trainer"
+MODEL_TRAINER_TRAINED_MODEL_DIR="trained_model"
+MODEL_TRAINER_TRAINED_MODEL_NAME="model.pkl"
+MODEL_TRAINER_EXPECTED_SCORE=0.6
+MODEL_TRAINER_OVERFITING_UNDERFITTING_THRESHOLD=0.05
+
+
+
+

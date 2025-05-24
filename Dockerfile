@@ -1,0 +1,1 @@
+# this file can be used for deploying on azure cloud platform
