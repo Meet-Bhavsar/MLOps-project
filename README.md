@@ -32,9 +32,15 @@ The pipeline includes the following stages:
 
 ### 1. Clone the Repository
 ### 2. Install Requirements
-  - pip install -r requirements.txt
+  ```bash
+    pip install -r requirements.txt
+```
 ### 3. Run ML pipeline
-  - python main.py
+  ```bash
+    python main.py
+```
 ### 4. Launch FastAPI app
-  - python app.py
+  ```bash
+    python app.py
+```
 Thanks for checking out this project! 😊
