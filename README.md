@@ -43,4 +43,4 @@ The pipeline includes the following stages:
   ```bash
     python app.py
 ```
-Thanks for checking out this project! 😊
+Thanks for checking out this project! 
